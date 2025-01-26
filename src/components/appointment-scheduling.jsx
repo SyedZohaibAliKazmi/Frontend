@@ -1,4 +1,6 @@
 // components/AppointmentScheduling.js
+// import ApplicationList from './ApplicationList';
+import AppointmentScheduling from './AppointmentScheduling';
 
 import { useState } from 'react';
 

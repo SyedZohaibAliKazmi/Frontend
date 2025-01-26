@@ -1,4 +1,4 @@
-import Header from "@/components/header";
+// import Header from "@/components/header";
 import Footer from "@/components/footer";
 import LoanCategories from "@/components/loan-categories";
 import LoanCalculator from "@/components/loan-calculator";

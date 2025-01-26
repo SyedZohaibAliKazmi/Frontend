@@ -1,4 +1,6 @@
 // components/ApplicationList.js
+import ApplicationList from './ApplicationList';
+// import AppointmentScheduling from './AppointmentScheduling';
 
 const ApplicationList = () => {
     const applications = [
